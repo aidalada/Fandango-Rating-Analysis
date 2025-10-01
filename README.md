@@ -1,4 +1,4 @@
-# Fanfango-Rating-Analysis
+# Fandango-Rating-Analysis
 Analysis of Fandango film ratings
 
 # Анализ рейтингов фильмов на платформе Fandango
